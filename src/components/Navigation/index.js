@@ -14,8 +14,8 @@ function BasicExample() {
           <Nav className="me-auto">
             <Nav.Link href="#home">About</Nav.Link>
             <Nav.Link href="#link">Resume</Nav.Link>
-            <Nav.Link href="#link">Projects</Nav.Link>
-            <Nav.Link href="#link">Contact</Nav.Link>
+            <Nav.Link href="#projects">Projects</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
