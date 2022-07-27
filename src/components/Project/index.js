@@ -9,6 +9,19 @@ function Projects() {
             <h1>Projects</h1>
         <div className='mt-3'>
             <Carousel fade>
+            <Carousel.Item>
+                <a href="https://github.com/SCScbc-Projects2022/Fermata-project-two">
+                    <img
+                      className="d-block w-100"
+                      src="https://images.unsplash.com/photo-1557952138-db779780cd54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80"
+                      alt="a waiter holding a meal"
+                    />
+                </a>
+                <Carousel.Caption>
+                  <h3>Locum</h3>
+                  <p>Staffing. Revolutionized.</p>
+                </Carousel.Caption>
+              </Carousel.Item>
               <Carousel.Item>
                 <a href="https://github.com/SCScbc-Projects2022/Fermata-project-two">
                     <img
