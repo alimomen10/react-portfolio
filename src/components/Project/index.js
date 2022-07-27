@@ -10,7 +10,7 @@ function Projects() {
         <div className='mt-3'>
             <Carousel fade>
             <Carousel.Item>
-                <a href="https://github.com/SCScbc-Projects2022/Fermata-project-two">
+                <a href="https://github.com/SCScbc-Projects2022/project-three">
                     <img
                       className="d-block w-100"
                       src="https://images.unsplash.com/photo-1557952138-db779780cd54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80"
